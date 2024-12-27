@@ -4,4 +4,4 @@
 
 You can visit the project here: https://baselinespanish.vercel.app
 
-Puedes visitar el proyecto aquí: ![https://baselinespanish.vercel.app]https://baselinespanish.vercel.app
+Puedes visitar el proyecto aquí: https://baselinespanish.vercel.app
